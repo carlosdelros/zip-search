@@ -1,0 +1,28 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.app {
+  display: flex;
+  margin: auto;
+}
+.zip-input {
+  display: flex;
+  margin: auto;
+}
+.city-container {
+  border: 1px solid black;
+  margin: 10px auto;
+  width: 400px;
+}
+
+.header {
+  padding: 10px;
+  background-color: gray;
+}
+
+.content {
+padding: 10px;
+}
